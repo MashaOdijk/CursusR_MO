@@ -1,2 +1,2 @@
 # CursusR_MO
-First rep. for my R cursus
+First repository for my R cursus
